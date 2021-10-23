@@ -1,0 +1,36 @@
+Przedmiot: Programowanie strukturalne w C. Wykład.
+Studia. Wszystkie notatki znajdziesz w linku,
+w opisie tego filmu.
+
+1. Miejsca deklaracji zmiennych
+
+Blok instrukcji jest to fragment programu
+otoczony klamrami. BLok zwykle pojawia się jako
+treść pętli lub instrukcji warunkowej.
+
+2. Przykład użycia pętli while
+
+3. Kontrola poprawności danych wczytywania
+liczby naturalnej
+
+suma
+Suma
+SUMA
+
+słowa specjalne ->> nazwy predefiniowane
+|
+> słowa kluczowe zarezerwowane
+
+Przyklad Nazwy
+printf
+scanf
+
+5. Zmienna jako szóstka atrybutów
+
+zmienna:
+adres
+nazwa
+typ
+zasięg
+wartość
+czas życia
